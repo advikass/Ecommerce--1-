@@ -1,0 +1,11 @@
+ <tr>
+            <th>Sl No</th>
+            <th>Due Amount</th>
+            <th>Invoice Number</th>
+            <th>Total Products</th>
+            <th>Order Date</th>
+            <th>Status</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody class="bg-secondary text-light>
